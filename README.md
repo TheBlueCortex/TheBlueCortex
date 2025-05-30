@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**TheBlueCortex/TheBlueCortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+This is a workspace for projects related to neuroscience, psychology, and coding — organized across a few GitHub organizations for clarity. Most projects here are small experiments or tools built while figuring things out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Neural Data 
+
+
+### 🗣️ Natural Language Processing
+- [Rakuten-Classification-Challenge](https://github.com/BlueCortex-NLP/Rakuten-Classification-Challenge.git): Preprocessing and NLP modeling for Rakuten Multimodal Classification Challenge (text modality only).
+- [Language-Detection](https://github.com/BlueCortex-NLP/Language-Detection.git): Different ways of detecting language in a PDF file.
+
+---
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-size:small; font-style:italic; color:#555;">
+“For I know the plans I have for you,” declares the Lord,  
+“plans to prosper you and not to harm you,  
+plans to give you hope and a future.” — Jeremiah 29:11
+</span>
+
+
+
