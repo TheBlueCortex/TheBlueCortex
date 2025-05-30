@@ -15,11 +15,6 @@ This is a workspace for projects related to neuroscience, psychology, and coding
 
 ---
 
-<sub>
-“For I know the plans I have for you,” declares the Lord,  
-“plans to prosper you and not to harm you,  
-plans to give you hope and a future.” — Jeremiah 29:11
-</sub>
-
-
-
+> _“For I know the plans I have for you,” declares the Lord,_  
+> _“plans to prosper you and not to harm you,_  
+> _plans to give you hope and a future.” — Jeremiah 29:11_
