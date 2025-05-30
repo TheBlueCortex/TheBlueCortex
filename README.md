@@ -15,24 +15,11 @@ This is a workspace for projects related to neuroscience, psychology, and coding
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-size:small; font-style:italic; color:#555;">
+<sub>
 “For I know the plans I have for you,” declares the Lord,  
 “plans to prosper you and not to harm you,  
 plans to give you hope and a future.” — Jeremiah 29:11
-</span>
+</sub>
 
 
 
